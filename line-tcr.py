@@ -16,57 +16,50 @@ reload(sys)
 sys.setdefaultencoding('utf-8')
 
 helpMessage =""" Ranger Bot
-[Id︎]
-[Mid]
-[Me︎]
-[TL︎:「Text」]
-[Mc 「mid」]
-[K on/off]
-[Join︎ on/off]
-[Gcancel:︎「Number of people」]
-[Group cancelalll︎]
-[Leave︎ on/off]
-[Add on/off]
-[Share on/off]
-[Message change:「text」]
-[Message check]
-[Confirm]
-[Jam on/off]
-[Change clock:「name」]
-[Up]
-[Cv join]
+======= ¤ [All Member] ¤ =======
+☆Mid
+☆Me
+☆Mc 「mid」
+☆K on/off
+☆Join︎ on/off☆
+☆Gcancel:︎「Number of people」
+☆Group cancelall
+☆Leave︎ on/off
+☆Add on/off
+☆Share on/off
+☆Confirm
+☆Jam on/off
+☆Change clock:「name」
+☆Up => update jam
+☆Cv join☆
 
-[*] Command in the groups [*]
+== [*] Command in the groups [*] ==
 
-[Curl]
-[Ourl]
-[url]
-[url:「Group ID」]
-[Invite：「mid」]
-[Kick：「mid」]
-[Ginfo]
-[jointicket]
-[Cancel]
-[Gn 「group name」]
-[Nk 「name」]
+🔽Curl / Ourl
+🔽Invite：「mid」
+🔽Kick：「mid」
+🔽Ginfo
+🔽jointicket🔽
+🔽Cancel
+🔽Gn 「group name」
+🔽Nk 「name」=> kick by name
 
-[*] Command kicker only [*]
+==== ☆ [Command kicker only]☆ ====
 
-[Bye]
-[Kill ban]
-[Kill 「@」]
-[Ban 「@」] By Tag
-[Unban 「@」] By Tag
-[Ban︎] Share Contact
-[Unban︎] Share Contact
-[Banlist︎]
-[Cek ban]
-[Cv mid]
-[Cv ︎invite:「mid」]
-[Cv ︎rename:「name」]
-[Cv ︎gift]
-[Respo︎n]
-[Bot cancel]
+⚠Bye / Bye All
+⚠Kill ban
+⚠Kill 「@」
+⚠Ban 「@」: By Tag
+⚠Unban 「@」: By Tag
+⚠Ban︎ : [Share Contact]
+⚠Unban︎ : [Share Contact]
+⚠Banlist︎
+⚠Cek ban
+⚠Cv mid
+⚠Cv ︎invite:「mid」
+⚠Gift / Gift All
+⚠Respo︎n
+⚠Bot cancel
 [Title:]
 """
 KAC=[cl,ki,kk]
