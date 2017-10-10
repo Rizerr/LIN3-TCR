@@ -54,6 +54,7 @@ helpMessage =""" Ranger Bot
 ⚠Ban︎ : [Share Contact]
 ⚠Unban︎ : [Share Contact]
 ⚠Banlist︎
+⚠Clear
 ⚠Cek ban
 ⚠Cv mid
 ⚠Cv ︎invite:「mid」
